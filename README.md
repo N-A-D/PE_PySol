@@ -1,2 +1,2 @@
 # PE_PySol
-Project Euler python solutions
+Project Euler Python solutions
