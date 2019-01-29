@@ -2,7 +2,7 @@ from functions import lcm
 
 def smallest_multiple(limit):
     x = 1
-    for i in range(1, limit + 1):
+    for i in range(2, limit + 1):
         x = lcm(x, i)
     return x
 
