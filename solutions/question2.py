@@ -12,4 +12,5 @@ def sum_even_terms():
         sum = sum + term
     return sum
 
-print(sum_even_terms())
+if __name__ == "__main__":
+    print(sum_even_terms())

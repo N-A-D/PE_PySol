@@ -10,4 +10,5 @@ def find_sum(upper_bound):
         sum = sum + multiple
     return sum
 
-print(find_sum(1000))
+if __name__ == "__main__":
+    print(find_sum(1000))
